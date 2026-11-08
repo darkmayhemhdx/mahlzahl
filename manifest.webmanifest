@@ -1,16 +1,29 @@
 {
-  "name": "Mahlzahl – einfach tracken",
-  "short_name": "Mahlzahl",
-  "description": "Kalorien und Nährwerte zählen – ruhig, offline, ohne Abo und ohne Werbung.",
+  "name": "tavo",
+  "short_name": "tavo",
+  "description": "Ernährung und Training mit einem Hauch Leichtigkeit – offline, ohne Abo, ohne Werbung.",
   "lang": "de",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f2f3f5",
-  "theme_color": "#0f6e64",
+  "background_color": "#fbf4e8",
+  "theme_color": "#3f5a3e",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
   ]
 }
